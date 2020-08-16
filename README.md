@@ -1,13 +1,10 @@
-# dapi  
+# test_plate  
 基于Django的轻量级接口测试平台  
-dapi：即Django+API测试的缩写  
-QQ群：529063263  
-[我的博客](https://www.cnblogs.com/yjlch1016/)  
+
 
 
 ***
-# PyCharm图片  
-![pycharm图片](https://github.com/yjlch1016/dapi/blob/master/static/img/pycharm.png)  
+
 
 
 ***
@@ -29,24 +26,13 @@ QQ群：529063263
 迁移  
 
 `python manage.py createsuperuser`  
-创建超级管理员账号  
-输入账号：admin  
-输入邮箱：123456789@qq.com  
-输入密码：test123456  
-二次确认  
+
 
 `python manage.py runserver`  
 启动服务 
 
 后台  
-http://127.0.0.1:8000/admin/  
-用户名：admin  
-密码：test123456
-
-前台  
-http://127.0.0.1:8000  
-用户名：admin  
-密码：test123456
+http://127.0.0.1:8000/admin/
 
 
 ***
